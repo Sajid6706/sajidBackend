@@ -1,0 +1,20 @@
+{
+  "name": "1one",
+  "version": "1.0.0",
+  "description": "\"beginnig of Backend",
+  "keywords": [
+    "node",
+    "chai"
+  ],
+  "license": "ISC",
+  "author": "sajid ahmad",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
